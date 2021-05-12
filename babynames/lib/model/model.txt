@@ -1,0 +1,6 @@
+final DummyScreenshot [
+    {'name': "Philip", "votes" : 15},
+    {'name': "Abraham", "votes" : 14},
+    {'name': "Ike", "votes" : 10},
+    {'name': "Justin", "votes" : 1},
+];
